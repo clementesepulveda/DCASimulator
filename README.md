@@ -1,6 +1,8 @@
 # DCA Simulator
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). If you want to check it out, you can in this link:
+
+[https://clementesepulveda.github.io/DCASimulator/](https://clementesepulveda.github.io/DCASimulator/)
 
 ## Available Scripts
 
@@ -28,6 +30,10 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run deploy`
+
+This command deploys the application to GitHub Pages. If you want to deploy with your own account, then you must change the value of `homepage` in `package.json`. This must follow the format `http://{github-user-name}.github.io/{repo-name}`
 
 ### `npm run eject`
 
