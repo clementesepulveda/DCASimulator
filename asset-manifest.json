@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/DCASimulator/static/css/main.a3d5e516.css",
-    "main.js": "/DCASimulator/static/js/main.732ab622.js",
+    "main.js": "/DCASimulator/static/js/main.1dd50603.js",
     "static/js/592.baf44141.chunk.js": "/DCASimulator/static/js/592.baf44141.chunk.js",
     "index.html": "/DCASimulator/index.html",
     "main.a3d5e516.css.map": "/DCASimulator/static/css/main.a3d5e516.css.map",
-    "main.732ab622.js.map": "/DCASimulator/static/js/main.732ab622.js.map",
+    "main.1dd50603.js.map": "/DCASimulator/static/js/main.1dd50603.js.map",
     "592.baf44141.chunk.js.map": "/DCASimulator/static/js/592.baf44141.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a3d5e516.css",
-    "static/js/main.732ab622.js"
+    "static/js/main.1dd50603.js"
   ]
 }
